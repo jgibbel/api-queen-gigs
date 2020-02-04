@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  perfomer: one
+  gig: one
+  admin: false
+
+two:
+  perfomer: two
+  gig: two
+  admin: false

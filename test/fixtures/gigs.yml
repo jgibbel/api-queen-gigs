@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date: 2019-11-20
+  time: MyString
+  poster: MyString
+  description: MyString
+  age: MyString
+  category: MyString
+  published: false
+  latitude: 1.5
+  longitude: 1.5
+
+two:
+  name: MyString
+  date: 2019-11-20
+  time: MyString
+  poster: MyString
+  description: MyString
+  age: MyString
+  category: MyString
+  published: false
+  latitude: 1.5
+  longitude: 1.5
